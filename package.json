@@ -1,0 +1,25 @@
+{
+  "name": "journal-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guscosta88/journal-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guscosta88/journal-api/issues"
+  },
+  "homepage": "https://github.com/Guscosta88/journal-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
