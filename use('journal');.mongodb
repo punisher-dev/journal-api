@@ -1,0 +1,9 @@
+use('journal');
+db.categories.insertMany([
+ {name: 'Food'},
+ {name: 'Coding'},
+ {name: 'work'},
+ {name: 'other'}
+]);
+
+
